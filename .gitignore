@@ -1,8 +1,9 @@
 # Ignore uploaded files (they'll be temporary)
-*.mp4
-*.mp3
-*.jpg
-*.png
-*.ass
+# But allow our specific upload patterns
+!video_*.mp4
+!audio_*.mp3
+!*.jpg
+!*.png
+!*.ass
 
 # Keep only the index.html and README.md

@@ -1,0 +1,8 @@
+# Ignore uploaded files (they'll be temporary)
+*.mp4
+*.mp3
+*.jpg
+*.png
+*.ass
+
+# Keep only the index.html and README.md

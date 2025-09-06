@@ -15,6 +15,7 @@ This GitHub Pages site provides publicly accessible URLs for video and audio fil
 ## Usage
 
 Files uploaded to this repository will be accessible via:
+
 - `https://thebolahistory-beep.github.io/of201-files/filename`
 - `https://of201.com/filename` (after DNS setup)
 
